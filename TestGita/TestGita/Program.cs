@@ -7,6 +7,7 @@ namespace TestGita
         static void Main(string[] args)
         {
             Console.WriteLine("Zdravo svete!");
+            Console.WriteLine("Hello World! Hello Tijana!");
         }
     }
 }
