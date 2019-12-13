@@ -11,7 +11,6 @@ namespace ConsoleFrameworkApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Mare hacker.");
-            Console.WriteLine("Sreta hacker");
         }
     }
 }
