@@ -9,6 +9,7 @@ namespace TestGita
             Console.WriteLine("Zdravo svete!");
             Console.WriteLine("Hello World! Hello Tijana!");
             Console.WriteLine("Hello World! Hello Tijana!Hello Tijana2");
+            Console.WriteLine("Hello World! Hello ljubisa!");
         }
     }
 }
